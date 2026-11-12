@@ -26,7 +26,7 @@ SplitSmart is a simple and intuitive expense-splitting application designed to h
 Clone the repository:
 
 ```
-git clone https://github.com/agrimatiwari/SplitSmart.git
+git clone https://github.com/action-kamen-coder/Split_Smart
 ```
 
 Navigate to the project folder:
